@@ -127,7 +127,7 @@ The interactive dashboard includes:
 > Add your dashboard screenshot below after uploading the image.
 
 ```
-Dashboard Images/HR_Analytics_Dashboard.png
+Dashboard Images/(HR_Analytics_Dashboard.png)
 ```
 
 ---
