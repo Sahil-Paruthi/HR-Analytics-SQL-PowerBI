@@ -126,7 +126,7 @@ The interactive dashboard includes:
 
 
 ```
-Dashboard Images/HR_Analytics_Dashboard.png
+![HR Analytics Dashboard](Dashboard_Images/HR_Analytics_Dashboard.png)
 ```
 
 ---
